@@ -1,0 +1,7 @@
+search:
+  page:
+    url: https://www.google.com
+    txt-search:
+      xpath: //*[@id="lst-ib"]
+    btn-search:
+      xpath: //*[@id="tsf"]/div[2]/div[3]/center/input[1]
